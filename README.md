@@ -2,7 +2,6 @@
 
 ¡Hola! Este es mi primer proyecto móvil desarrollado con **React Native** y **Expo**. Es una calculadora funcional que realiza operaciones aritméticas básicas.
 
----
 
 ## Características
 * Suma
@@ -12,14 +11,12 @@
 * Botón para limpiar los campos
 * Teclado numérico optimizado para dispositivos móviles
 
----
 
 ## Tecnologías Utilizadas
 * **React Native** (Componentes nativos y Hooks como `useState`)
 * **Expo** (Para un entorno de desarrollo rápido)
 * **JavaScript** (Lógica de las operaciones)
 
----
 
 ## Instalación y Uso
 
